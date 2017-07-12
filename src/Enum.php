@@ -11,6 +11,7 @@ class Enum
 	const JAHANPAY = 'JAHANPAY';
 	const PARSIAN = 'PARSIAN';
 	const PASARGAD = 'PASARGAD';
+	const PAY = 'PAY';
 
 	/**
 	 * Status code for status field in poolport_transactions table
