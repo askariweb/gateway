@@ -73,6 +73,13 @@ return [
         'certificate-path'    => storage_path('gateway/pasargad/certificate.xml'),
         'callback-url' => '/gateway/callback/pasargad'
     ],
+    //--------------------------------
+    // Pay.ir gateway
+    //--------------------------------
+    'pay' => [
+        'api' => 'xxxxx-xxxxx-xxxxx-xxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+        'callback-url' => '/'
+    ],
     //-------------------------------
     // Tables names
     //--------------------------------
