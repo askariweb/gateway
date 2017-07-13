@@ -13,6 +13,7 @@ Available Banks:
  5. ZARINPAL
  6. JAHANPAY
  7. PAYLINE
+ 8. PAY.IR (Just Added ,not tested)
 
 SAMAN bank will be added asap.
  
