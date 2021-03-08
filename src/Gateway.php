@@ -16,6 +16,6 @@ class Gateway extends Facade
 	 */
 	protected static function getFacadeAccessor()
 	{
-		return 'gateway';
+		return 'gateway'; //initiate
 	}
 }
